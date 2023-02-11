@@ -1,0 +1,66 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  img {
+    
+    width:400px; height:200px;
+    padding-left: 500px;
+    margin:50px
+  }
+  p {
+    color: brown;
+    text-align:center;
+  }
+  p2 {
+    padding-left: 200px;
+    background-color: black;
+    color:rgb(35, 193, 40);
+
+  }
+  p1{
+    border-left: 8px solid red;
+    background-color: lightgrey;
+    font-size: 50px;
+    color: darkorange;
+  }
+ 
+  h1 {
+    border-bottom: 6px solid red;
+  background-color: rgb(255, 245, 245);
+    color: rgb(252, 35, 11);
+    text-align: center;
+    font-size: 60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h3 {
+    color: rgb(204, 194, 204);
+    text-align: center;
+  }
+ div {
+    text-align: center;
+    color: rgb(147, 17, 17);
+ }
+ p{
+    font-size: 200px;
+ }
+ p3{
+    color: magenta;
+    padding: 750px;
+ }
